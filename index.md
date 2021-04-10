@@ -1,18 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to shidong's Pages
 
-You can use the [editor on GitHub](https://github.com/njbsok/njbsok.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+# 个人简历
+周口师范学院，计算机科学与技术学院副院长，特聘教授，硕士生导师，东南大学博士，华中科技大学博士后，美国圣路易斯华盛顿大学访问学者，中国计算机学会高级会员， IEEE Transactions on Parallel and Distributed Systems(CCF推荐TOP期刊，SCI期刊）、Journal of Internet Technology(SCI期刊)、Computers & Electrical Engineering(SCI期刊)、KSII Transactions on Internet and Information Systems(SCI期刊)、《西安交通大学学报》、《北京邮电大学学报》等国内外期刊审稿人。博士期间作为主要成员参加研发实验室课题组主持的国家科技支撑项目“新一代可信任互联网安全和网络服务（项目编号：2008BAH37B04）”和国家973计划课题“基于自治治理模型的网络管理与安全研究”(2009CB320505)的研究工作。已在相关研究中发表或录用第一作者学术论文8篇(被SCI 检索4篇，EI检索3篇，待检索SCI期刊1篇)，其研究成果发表在计算机研究与发展、通信学报、International Journal of Computers Communications & Control(SCI期刊)、KSII Transactions on Internet and Information Systems(SCI期刊)、IETE JOURNAL OF RESEARCH（SCI期刊）、APPLIED MATHEMATICS & information science(SCI期刊),Wireless Personal Communcation(SCI期刊）等国内外重要期刊。目前主持中国博士后基金面上项目一项，国家自然基金联合项目一项，河南省科技攻关项目一项。
+## 发表论文
 ### Header 3
 
 - Bulleted
