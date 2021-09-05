@@ -1,9 +1,9 @@
-#个人简历
-##证件照 Shi Dong(董仕)英文版 
-###Biography
+# 个人简历
+## 证件照 Shi Dong(董仕)英文版 
+### Biography
 I am a senior member of the China Computer Federation, is a Distinguished Professor and vice president in the School of Computer Science and Technology with Zhoukou Normal University, reviewer of IEEE Transactions on Parallel and Distributed Systems (SCI journal); IEEE/ACM Transactions on Networking(SCI journal); IEEE ACCESS (SCI journal); Computer Networks(SCI journal); IEEE Transactions on Network Science and Engineering(SCI journal); IEEE Transactions on Industrial Informatics(SCI journal);IEEE Internet of Things Journal(SCI journal);Journal of Internet Technology (SCI journal); Computers & Electrical Engineering (SCI journal); KSII Transactions on Internet and Information Systems (SCI journal)
 
-###Education:
+### Education:
 1999.9-2003.6 	 B.S. in Computer Technology
 School of Computer Science and technology, Henan University, China
 
@@ -16,7 +16,7 @@ School of Computer Science and Engineering, Southeast University, Nanjing, China
 2015.11-2016.11  Visiting Scholar, Washington University in Saint Louis
 
 
-###Publications:
+### Publications:
 
 1.	Dong Shi* et al. Distributed Data Gathering Algorithm Based on Spanning Tree. IEEE Systems Journal:2020.3 SCI Index. 
 2.	Dong Shi* et al. A survey on deep learning and its applications[J].Computer Science Review, 2021, 40: 100379. SCI Index
